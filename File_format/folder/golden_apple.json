@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:gold_block"
+    },
+    {
+      "item": "minecraft:apple"
+    }
+  ],
+  "result": {
+    "item": "minecraft:golden_apple"
+  }
+}
