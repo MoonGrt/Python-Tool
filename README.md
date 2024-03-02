@@ -16,7 +16,7 @@
 	</a>
 <h3 align="center">Python Tool</h3>
 	<p align="center">
-	的撒iu山东i盘都
+	In the Python toolkit, File_format handles versatile file format tasks, Folder_diff swiftly compares folder changes, Image provides diverse image processing, Image_resize resizes images efficiently, MIT_gen simplifies license generation, Text_replace batch-replaces strings, and Web_scraper extracts data from websites.
 	<br />
 	<a href="https://github.com/MoonGrt/python_tool"><strong>Explore the docs »</strong></a>
 	<br />
@@ -51,12 +51,6 @@
   ├─ LICENSE
   ├─ README.md
   ├─ /File_format/
-  │ └─ /c_file/
-  │   ├─ buffer.c
-  │   ├─ buzzer.cpp
-  │   └─ /output/
-  │     └─ buffer.c
-  │     └─ buzzer.cpp
   ├─ /Folder_diff/
   ├─ /Image/
   ├─ /images/
