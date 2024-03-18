@@ -5,27 +5,26 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-	<a href="https://github.com/MoonGrt/python_tool">
+	<a href="https://github.com/MoonGrt/Python_tool">
 	<img src="images/logo.png" alt="Logo" width="80" height="80">
 	</a>
-<h3 align="center">Python Tool</h3>
+<h3 align="center">Python_tool</h3>
 	<p align="center">
 	In the Python toolkit, File_format handles versatile file format tasks, Folder_diff swiftly compares folder changes, Image provides diverse image processing, Image_resize resizes images efficiently, MIT_gen simplifies license generation, Text_replace batch-replaces strings, and Web_scraper extracts data from websites.
 	<br />
-	<a href="https://github.com/MoonGrt/python_tool"><strong>Explore the docs »</strong></a>
+	<a href="https://github.com/MoonGrt/Python_tool"><strong>Explore the docs »</strong></a>
 	<br />
 	<br />
-	<a href="https://github.com/MoonGrt/python_tool">View Demo</a>
+	<a href="https://github.com/MoonGrt/Python_tool">View Demo</a>
 	·
-	<a href="https://github.com/MoonGrt/python_tool/issues">Report Bug</a>
+	<a href="https://github.com/MoonGrt/Python_tool/issues">Report Bug</a>
 	·
-	<a href="https://github.com/MoonGrt/python_tool/issues">Request Feature</a>
+	<a href="https://github.com/MoonGrt/Python_tool/issues">Request Feature</a>
 	</p>
 </div>
 
@@ -48,6 +47,7 @@
 
 ```
 └─ Project
+  ├─ GIt_sender
   ├─ LICENSE
   ├─ README.md
   ├─ /File_format/
@@ -55,9 +55,10 @@
   ├─ /Image/
   ├─ /images/
   ├─ /Image_resize/
+  ├─ /MC_playerdata_integration/
   ├─ /MIT_gen/
-  └─ /Text_replace/
-  ├─ /Web_scraper/
+  ├─ /Text_replace/
+  └─ /Web_scraper/
 
 ```
 
@@ -84,7 +85,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 MoonGrt - 1561145394@qq.com
-Project Link: [MoonGrt/python_tool](https://github.com/MoonGrt/python_tool)
+Project Link: [MoonGrt/](https://github.com/MoonGrt/)
 <p align="right">(<a href="#top">top</a>)</p>
 
 
@@ -97,22 +98,20 @@ Project Link: [MoonGrt/python_tool](https://github.com/MoonGrt/python_tool)
 * [Img Shields](https://shields.io)
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+* [React Icons](https://react-icons.github.io/react-icons/search)   
 <p align="right">(<a href="#top">top</a>)</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/MoonGrt/python_tool.svg?style=for-the-badge
-[contributors-url]: https://github.com/MoonGrt/python_tool/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/MoonGrt/python_tool.svg?style=for-the-badge
-[forks-url]: https://github.com/MoonGrt/python_tool/network/members
-[stars-shield]: https://img.shields.io/github/stars/MoonGrt/python_tool.svg?style=for-the-badge
-[stars-url]: https://github.com/MoonGrt/python_tool/stargazers
-[issues-shield]: https://img.shields.io/github/issues/MoonGrt/python_tool.svg?style=for-the-badge
-[issues-url]: https://github.com/MoonGrt/python_tool/issues
-[license-shield]: https://img.shields.io/github/license/MoonGrt/python_tool.svg?style=for-the-badge
-[license-url]: https://github.com/MoonGrt/python_tool/blob/master/LICENSE
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[contributors-shield]: https://img.shields.io/github/contributors/MoonGrt/Python_tool.svg?style=for-the-badge
+[contributors-url]: https://github.com/MoonGrt/Python_tool/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/MoonGrt/Python_tool.svg?style=for-the-badge
+[forks-url]: https://github.com/MoonGrt/Python_tool/network/members
+[stars-shield]: https://img.shields.io/github/stars/MoonGrt/Python_tool.svg?style=for-the-badge
+[stars-url]: https://github.com/MoonGrt/Python_tool/stargazers
+[issues-shield]: https://img.shields.io/github/issues/MoonGrt/Python_tool.svg?style=for-the-badge
+[issues-url]: https://github.com/MoonGrt/Python_tool/issues
+[license-shield]: https://img.shields.io/github/license/MoonGrt/Python_tool.svg?style=for-the-badge
+[license-url]: https://github.com/MoonGrt/Python_tool/blob/master/LICENSE
 
