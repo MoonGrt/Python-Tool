@@ -112,7 +112,7 @@ initial begin
 end
 
 // Instantiate module
-{module_name} dut (
+{module_name} {module_name} (
 {connect_ports_str}
 );
 
