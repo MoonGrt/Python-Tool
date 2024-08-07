@@ -10,21 +10,21 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-	<a href="https://github.com/MoonGrt/Python_tool">
+	<a href="https://github.com/MoonGrt/Python-Tool">
 	<img src="images/logo.png" alt="Logo" width="80" height="80">
 	</a>
-<h3 align="center">Python_tool</h3>
+<h3 align="center">Python-Tool</h3>
 	<p align="center">
 	In the Python toolkit, File_format handles versatile file format tasks, Folder_diff swiftly compares folder changes, Image provides diverse image processing, Image_resize resizes images efficiently, MIT_gen simplifies license generation, Text_replace batch-replaces strings, and Web_scraper extracts data from websites.
 	<br />
-	<a href="https://github.com/MoonGrt/Python_tool"><strong>Explore the docs »</strong></a>
+	<a href="https://github.com/MoonGrt/Python-Tool"><strong>Explore the docs »</strong></a>
 	<br />
 	<br />
-	<a href="https://github.com/MoonGrt/Python_tool">View Demo</a>
+	<a href="https://github.com/MoonGrt/Python-Tool">View Demo</a>
 	·
-	<a href="https://github.com/MoonGrt/Python_tool/issues">Report Bug</a>
+	<a href="https://github.com/MoonGrt/Python-Tool/issues">Report Bug</a>
 	·
-	<a href="https://github.com/MoonGrt/Python_tool/issues">Request Feature</a>
+	<a href="https://github.com/MoonGrt/Python-Tool/issues">Request Feature</a>
 	</p>
 </div>
 
@@ -41,40 +41,28 @@
   </ol>
 </details>
 
+
+<!-- FILE TREE -->
+## File Tree
+
+```
 └─ Project
   ├─ LICENSE
   ├─ README.md
   ├─ /ASCIIArt/
-  │ ├─ CharTransfer.py
-  │ ├─ input.jpg
-  │ ├─ javatext.ttf
-  │ ├─ output.jpg
-  │ └─ README.md
   ├─ /File_format/
-  │ ├─ File_Format.py
-  │ └─ Indent_converter.py
   ├─ /Folder_diff/
-  │ └─ folder_diff.py
   ├─ /Image/
-  │ ├─ Color_replacer1.py
-  │ ├─ Color_replacer2.py
-  │ └─ Image_flipper.py
+  ├─ /images/
   ├─ /Image_resize/
-  │ ├─ imgresize.py
-  │ └─ imgresize_GUI.py
   ├─ /MC_playerdata_integration/
   ├─ /MIT_gen/
-  │ └─ MIT_gen.py
   ├─ /Text_replace/
-  │ └─ Text_replace.py
   └─ /Web_scraper/
-    ├─ mooyuu.py
-    ├─ mp4.py
-    ├─ netbian.py
-    ├─ pivix.py
-    ├─ pixiv1.py
-    ├─ pixiv2.py
-    └─ spider.py
+
+```
+
+
 <!-- CONTRIBUTING -->
 ## Contributing
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -116,14 +104,14 @@ Project Link: [MoonGrt/](https://github.com/MoonGrt/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/MoonGrt/Python_tool.svg?style=for-the-badge
-[contributors-url]: https://github.com/MoonGrt/Python_tool/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/MoonGrt/Python_tool.svg?style=for-the-badge
-[forks-url]: https://github.com/MoonGrt/Python_tool/network/members
-[stars-shield]: https://img.shields.io/github/stars/MoonGrt/Python_tool.svg?style=for-the-badge
-[stars-url]: https://github.com/MoonGrt/Python_tool/stargazers
-[issues-shield]: https://img.shields.io/github/issues/MoonGrt/Python_tool.svg?style=for-the-badge
-[issues-url]: https://github.com/MoonGrt/Python_tool/issues
-[license-shield]: https://img.shields.io/github/license/MoonGrt/Python_tool.svg?style=for-the-badge
-[license-url]: https://github.com/MoonGrt/Python_tool/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/MoonGrt/Python-Tool.svg?style=for-the-badge
+[contributors-url]: https://github.com/MoonGrt/Python-Tool/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/MoonGrt/Python-Tool.svg?style=for-the-badge
+[forks-url]: https://github.com/MoonGrt/Python-Tool/network/members
+[stars-shield]: https://img.shields.io/github/stars/MoonGrt/Python-Tool.svg?style=for-the-badge
+[stars-url]: https://github.com/MoonGrt/Python-Tool/stargazers
+[issues-shield]: https://img.shields.io/github/issues/MoonGrt/Python-Tool.svg?style=for-the-badge
+[issues-url]: https://github.com/MoonGrt/Python-Tool/issues
+[license-shield]: https://img.shields.io/github/license/MoonGrt/Python-Tool.svg?style=for-the-badge
+[license-url]: https://github.com/MoonGrt/Python-Tool/blob/master/LICENSE
 
