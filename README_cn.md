@@ -100,6 +100,12 @@
 <p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><img src="images/Folder_Diff.png" height="400" /></p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-weight:600;">Image_Process</span>: 一个全面的图像处理工具集合，包含Color_Replace（替换图像中特定颜色为用户自定义颜色），Image_Flip（支持上下或左右翻转图像），以及Image_Resize（提供基于多种算法的图像尺寸调整）。这些工具非常适合批量图像处理和自定义图像修改，满足用户在图像编辑和优化中的多样需求。</p>
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><img src="images/Color_Replace.png" /></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><img src="images/Image_Flip.png" /></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><img src="images/Image_Resize.png" /></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-weight:600;">Text_Replace</span>: 文本替换工具，支持在大量文件或整个文件夹中批量替换指定内容。该工具不仅可以进行简单的字符串替换，还适合进行复杂的多模式文本替换，是大规模文档处理和代码重构的理想选择。</p>
 <p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><img src="images/Text_Replace.png" height="400" /></p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
@@ -136,9 +142,9 @@
 <!-- 联系我们 -->
 ## 联系我们
 
-你的名字 - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+MoonGrt - 1561145394@qq.com
+Project Link: [MoonGrt/Python-Tool](https://github.com/MoonGrt/Python-Tool)
 
-项目链接: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 <p align="right">(<a href="#top">top</a>)</p>
 
 

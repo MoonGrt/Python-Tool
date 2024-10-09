@@ -16,7 +16,7 @@
     </a>
 <h3 align="center">Python-Tool</h3>
     <p align="center">
-    In the Python toolkit, File_format handles versatile file format tasks, Folder_diff swiftly compares folder changes, Image provides diverse image processing, Image_resize resizes images efficiently, MIT_gen simplifies license generation, Text_replace batch-replaces strings, and Web_scraper extracts data from websites.
+    The Python tool repository contains various practical Python programs designed to improve efficiency in file management, image processing, and data analysis tasks.
     <br />
     <a href="https://github.com/MoonGrt/Python-Tool"><strong>Explore the docs »</strong></a>
     <br />
@@ -63,28 +63,27 @@
   │ ├─ File_Format.py
   │ └─ Indent_converter.py
   ├─ /Folder_Diff/
-  │ └─ folder_diff.py
+  │ └─ Folder_Diff.py
   ├─ /images/
   ├─ /Image_Process/
   │ ├─ /Color_Replace/
-  │ │ ├─ Color_replacer1.py
-  │ │ └─ Color_replacer2.py
+  │ │ ├─ Color_Replace1.py
+  │ │ └─ Color_Replace2.py
   │ ├─ /Image_Flip/
-  │ │ └─ Image_flipper.py
+  │ │ └─ Image_Flip.py
   │ └─ /Image_Resize/
-  │   ├─ imgresize.py
-  │   ├─ imgresize_GUI.py
+  │   ├─ Image_Resize.py
+  │   ├─ Image_Resize_GUI.py
   │   └─ README.md
   ├─ /MC_Playerdata_Integration/
   │ └─ data_integration.py
   ├─ /Text_Replace/
-  │ └─ Text_replace.py
+  │ └─ Text_Replace.py
   └─ /Web_Scraper/
     ├─ mooyuu.py
     ├─ netbian.py
     ├─ pivix.py
     └─ spider.py
-
 ```
 
 
@@ -92,7 +91,26 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p></body></html>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">The Python tool repository features a collection of compact and powerful Python programs designed for file management, image processing, and data analysis. These tools aim to simplify common tasks and improve operational efficiency, making them suitable for developers and data handlers. The repository covers a wide range of functionalities, from code formatting to web scraping.</p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-weight:600;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-weight:600;">File_Format</span>: An efficient code formatting tool supporting multiple programming languages such as C, C++, Java, and Verilog. It allows for uniform formatting of individual files or entire directories, ensuring consistency and readability in codebases. This tool is particularly useful for projects requiring large-scale code standardization.</p>
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><img src="images/File_Format.png" /></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-weight:600;">Folder_Diff</span>: A folder comparison tool that thoroughly compares the contents of two directories and generates a detailed difference report. It identifies identical files, different files, and files unique to each folder, making it ideal for file synchronization, backup validation, and codebase change management. This helps users quickly identify discrepancies and track changes between versions.</p>
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><img src="images/Folder_Diff.png" height="400" /></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-weight:600;">Image_Process</span>: A comprehensive set of image processing tools, including Color_Replace (replacing specific colors in images with user-defined colors), Image_Flip (supports vertical and horizontal image flipping), and Image_Resize (offers image resizing using various algorithms). These tools are highly suitable for batch image processing and customized image modifications, catering to diverse image editing and optimization needs.</p>
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><img src="images/Color_Replace.png" /></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><img src="images/Image_Flip.png" /></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><img src="images/Image_Resize.png" /></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-weight:600;">Text_Replace</span>: A batch text replacement tool capable of replacing specified content across numerous files or entire directories. It supports not only simple string replacements but also more complex multi-pattern text transformations, making it ideal for large-scale document processing and code refactoring.</p>
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><img src="images/Text_Replace.png" height="400" /></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-weight:600;">Web_Scraper</span>: A powerful web scraping tool that automatically extracts and organizes data from specified websites. It supports parsing complex web structures, making it suitable for data collection, market analysis, content monitoring, and other use cases where automated extraction of web information is required.</p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-weight:600;">MC_Playerdata_Integration</span>: A Minecraft-specific data integration tool designed to merge player data from multiple users. It analyzes and combines data to generate reports or statistics, facilitating easier data management and sharing for players. This tool is particularly useful for server administrators and players in the Minecraft community, offering deeper insights into player activities and server performance.</p></body></html>
 <p align="right">(<a href="#top">top</a>)</p>
 
 
@@ -124,7 +142,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 MoonGrt - 1561145394@qq.com
-Project Link: [MoonGrt/](https://github.com/MoonGrt/)
+Project Link: [MoonGrt/Python-Tool](https://github.com/MoonGrt/Python-Tool)
+
 <p align="right">(<a href="#top">top</a>)</p>
 
 
