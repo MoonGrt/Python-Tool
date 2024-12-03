@@ -228,6 +228,7 @@ def process_images(src_dir, algorithm, dst_w, dst_h):
     dst_file_list = dst_path.glob('*.jp*g')
     print(f'\n一共转换了{filecount}个文件\n已转换的文件列表: ',end='')
     line_count = 0
+    cnt = 0
     for f in sorted(dst_file_list, key = lambda f : f.stem):
         cnt += 1
         if cnt%display_each_line == 1:
