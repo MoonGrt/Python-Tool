@@ -176,4 +176,3 @@ Project Link: [MoonGrt/Python-Tool](https://github.com/MoonGrt/Python-Tool)
 [issues-url]: https://github.com/MoonGrt/Python-Tool/issues
 [license-shield]: https://img.shields.io/github/license/MoonGrt/Python-Tool.svg?style=for-the-badge
 [license-url]: https://github.com/MoonGrt/Python-Tool/blob/master/LICENSE
-
