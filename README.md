@@ -12,7 +12,7 @@
 <br />
 <div align="center">
     <a href="https://github.com/MoonGrt/Python-Tool">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="Document/images/logo.png" alt="Logo" width="80" height="80">
     </a>
 <h3 align="center">Python-Tool</h3>
     <p align="center">
@@ -64,7 +64,7 @@
   │ └─ Indent_converter.py
   ├─ /Folder_Diff/
   │ └─ Folder_Diff.py
-  ├─ /images/
+  ├─ /Document/images/
   ├─ /Image_Process/
   │ ├─ /Color_Replace/
   │ │ ├─ Color_Replace1.py
@@ -94,20 +94,20 @@
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">The Python tool repository features a collection of compact and powerful Python programs designed for file management, image processing, and data analysis. These tools aim to simplify common tasks and improve operational efficiency, making them suitable for developers and data handlers. The repository covers a wide range of functionalities, from code formatting to web scraping.</p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-weight:600;"><br /></p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-weight:600;">File_Format</span>: An efficient code formatting tool supporting multiple programming languages such as C, C++, Java, and Verilog. It allows for uniform formatting of individual files or entire directories, ensuring consistency and readability in codebases. This tool is particularly useful for projects requiring large-scale code standardization.</p>
-<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><img src="images/File_Format.png" /></p>
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><img src="Document/images/File_Format.png" /></p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-weight:600;">Folder_Diff</span>: A folder comparison tool that thoroughly compares the contents of two directories and generates a detailed difference report. It identifies identical files, different files, and files unique to each folder, making it ideal for file synchronization, backup validation, and codebase change management. This helps users quickly identify discrepancies and track changes between versions.</p>
-<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><img src="images/Folder_Diff.png" height="400" /></p>
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><img src="Document/images/Folder_Diff.png" height="400" /></p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-weight:600;">Image_Process</span>: A comprehensive set of image processing tools, including Color_Replace (replacing specific colors in images with user-defined colors), Image_Flip (supports vertical and horizontal image flipping), and Image_Resize (offers image resizing using various algorithms). These tools are highly suitable for batch image processing and customized image modifications, catering to diverse image editing and optimization needs.</p>
-<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><img src="images/Color_Replace.png" /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-weight:600;">Image_Process</span>: A comprehensive set of image processing tools, including Color_Replace (replacing specific colors in Document/images with user-defined colors), Image_Flip (supports vertical and horizontal image flipping), and Image_Resize (offers image resizing using various algorithms). These tools are highly suitable for batch image processing and customized image modifications, catering to diverse image editing and optimization needs.</p>
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><img src="Document/images/Color_Replace.png" /></p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
-<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><img src="images/Image_Flip.png" /></p>
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><img src="Document/images/Image_Flip.png" /></p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
-<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><img src="images/Image_Resize.png" /></p>
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><img src="Document/images/Image_Resize.png" /></p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-weight:600;">Text_Replace</span>: A batch text replacement tool capable of replacing specified content across numerous files or entire directories. It supports not only simple string replacements but also more complex multi-pattern text transformations, making it ideal for large-scale document processing and code refactoring.</p>
-<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><img src="images/Text_Replace.png" height="400" /></p>
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><img src="Document/images/Text_Replace.png" height="400" /></p>
 <p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-weight:600;">Web_Scraper</span>: A powerful web scraping tool that automatically extracts and organizes data from specified websites. It supports parsing complex web structures, making it suitable for data collection, market analysis, content monitoring, and other use cases where automated extraction of web information is required.</p>
 <p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-weight:600;">MC_Playerdata_Integration</span>: A Minecraft-specific data integration tool designed to merge player data from multiple users. It analyzes and combines data to generate reports or statistics, facilitating easier data management and sharing for players. This tool is particularly useful for server administrators and players in the Minecraft community, offering deeper insights into player activities and server performance.</p></body></html>
@@ -164,7 +164,7 @@ Project Link: [MoonGrt/Python-Tool](https://github.com/MoonGrt/Python-Tool)
 
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
+<!-- MARKDOWN LINKS & Document/images -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/MoonGrt/Python-Tool.svg?style=for-the-badge
 [contributors-url]: https://github.com/MoonGrt/Python-Tool/graphs/contributors
