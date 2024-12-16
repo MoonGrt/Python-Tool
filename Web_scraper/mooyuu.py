@@ -20,7 +20,7 @@ for id in ID:
     item = requests.get(URL, headers=headers).text
     NAME = re.findall(name,item)
     LINK = re.findall(link,item)
-    with open(f"./Pic/{NAME}" + LINK[0].split('/')[-1][-4:], 'wb') as f:             # 创建一个以图片链接对应名字的文件
-        f.write(requests.get(url = LINK[0], headers=headers).content)                                     # 存入图片二进制数据
+    with open(f"./Pic/{NAME}" + LINK[0].split('/')[-1][-4:], 'wb') as f:  # 创建一个以图片链接对应名字的文件
+        f.write(requests.get(url = LINK[0], headers=headers).content)  # 存入图片二进制数据
     print(NAME[0] + ": 下载成功")
-    time.sleep(1)                                                     # 延迟一秒，防止ip被封
+    time.sleep(1)  # 延迟一秒，防止ip被封
